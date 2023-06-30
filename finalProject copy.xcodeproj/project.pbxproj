@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD7A492B2A4E195600700259 /* zones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A492A2A4E195600700259 /* zones.swift */; };
+		BD7A492D2A4F00CD00700259 /* badges.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A492C2A4F00CD00700259 /* badges.swift */; };
 		BD8A6C752A4A188200202625 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8A6C742A4A188100202625 /* secondView.swift */; };
 		BD8A6C772A4A18D400202625 /* thirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8A6C762A4A18D400202625 /* thirdView.swift */; };
 		BD8C5EC32A4DEE58006147D9 /* MoonbrightDemo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD8C5EC22A4DEE1B006147D9 /* MoonbrightDemo.ttf */; };
@@ -21,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD7A492A2A4E195600700259 /* zones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zones.swift; sourceTree = "<group>"; };
+		BD7A492C2A4F00CD00700259 /* badges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = badges.swift; sourceTree = "<group>"; };
 		BD8A6C742A4A188100202625 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 		BD8A6C762A4A18D400202625 /* thirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdView.swift; sourceTree = "<group>"; };
 		BD8C5EC22A4DEE1B006147D9 /* MoonbrightDemo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MoonbrightDemo.ttf; sourceTree = "<group>"; };
@@ -76,6 +80,8 @@
 				BD8C5EC22A4DEE1B006147D9 /* MoonbrightDemo.ttf */,
 				BD8F68482A49FD1300D5A5E9 /* finalProjectApp.swift */,
 				BD8F684A2A49FD1300D5A5E9 /* ContentView.swift */,
+				BD7A492C2A4F00CD00700259 /* badges.swift */,
+				BD7A492A2A4E195600700259 /* zones.swift */,
 				BD8F684C2A49FD1B00D5A5E9 /* Assets.xcassets */,
 				BD8F684E2A49FD1B00D5A5E9 /* Preview Content */,
 			);
@@ -125,7 +131,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BD8F68402A49FD1300D5A5E9 /* Build configuration list for PBXProject "finalProject" */;
+			buildConfigurationList = BD8F68402A49FD1300D5A5E9 /* Build configuration list for PBXProject "finalProject copy" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -162,9 +168,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD8A6C772A4A18D400202625 /* thirdView.swift in Sources */,
+				BD7A492D2A4F00CD00700259 /* badges.swift in Sources */,
 				BD8F684B2A49FD1300D5A5E9 /* ContentView.swift in Sources */,
 				BD93D33F2A4B497C000E4C96 /* fifthView.swift in Sources */,
 				BD8A6C752A4A188200202625 /* secondView.swift in Sources */,
+				BD7A492B2A4E195600700259 /* zones.swift in Sources */,
 				BD8F68492A49FD1300D5A5E9 /* finalProjectApp.swift in Sources */,
 				BD9968142A4C8D250037A9F8 /* sixthView.swift in Sources */,
 				BD9381552A4E03BC000379B1 /* progress.swift in Sources */,
@@ -350,7 +358,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD8F68402A49FD1300D5A5E9 /* Build configuration list for PBXProject "finalProject" */ = {
+		BD8F68402A49FD1300D5A5E9 /* Build configuration list for PBXProject "finalProject copy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD8F68512A49FD1B00D5A5E9 /* Debug */,
